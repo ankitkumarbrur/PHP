@@ -18,8 +18,6 @@ Expected Output : Thequick""brownfox \
 * \
 * * \
 * * * \
-* * * * \
-* * * * * \
 14. Write a simple PHP program to check that emails are valid.
 15. WAP to print first n even numbers.
 16. ``` $color = array('white', 'green', 'red'') ``` \
@@ -28,9 +26,9 @@ Output : \
 white, green, red, \
 • green \
 • red \
-• white \
+• white
 17. Using switch case and dropdown list display a “Hello” message depending on the language selected in drop down list.
 18. Write a PHP program to print Fibonacci series using recursion.
 19. Write a PHP script to replace the first 'the' of the following string with 'That'. \
 Sample : 'the quick brown fox jumps over the lazy dog.' \
-Expected Result : That quick brown fox jumps over the lazy dog \
+Expected Result : That quick brown fox jumps over the lazy dog
