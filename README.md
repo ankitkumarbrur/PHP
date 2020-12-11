@@ -14,7 +14,7 @@ Expected Output : Thequick""brownfox
 10. Create a login page having user name and password. On clicking submit, a welcome message should be displayed if the user is already registered (i.e.name is present in the database) otherwise error message should be displayed.
 11. Write a PHP script that checks if a string contains another string.
 12. Create a simple 'birthday countdown' script, the script will count the number of days between current day and birth day.
-13. Create a script to construct the following pattern, using nested for loop. \
+13. Create a script to construct the following pattern, using nested for loop.
 ```
 *
 * *
