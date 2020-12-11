@@ -9,15 +9,17 @@ PHP practicals
 7. WAP to sort an array.
 8. Write a PHP script that removes the whitespaces from a string. \
 Sample string : 'The quick " " brown fox' \
-Expected Output : Thequick""brownfox \
+Expected Output : Thequick""brownfox
 9. Write a PHP script that finds out the sum of first n odd numbers.
 10. Create a login page having user name and password. On clicking submit, a welcome message should be displayed if the user is already registered (i.e.name is present in the database) otherwise error message should be displayed.
 11. Write a PHP script that checks if a string contains another string.
 12. Create a simple 'birthday countdown' script, the script will count the number of days between current day and birth day.
 13. Create a script to construct the following pattern, using nested for loop. \
+```
 * \
 * * \
 * * * \
+```
 14. Write a simple PHP program to check that emails are valid.
 15. WAP to print first n even numbers.
 16. ``` $color = array('white', 'green', 'red'') ``` \
